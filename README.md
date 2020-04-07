@@ -1,3 +1,5 @@
+![David](https://img.shields.io/david/MartinHennrich/telegram-mumble-bot)
+
 # telegram-mumble-bot
 TelegramMumbleBot is a simple telegram bot to notify mumble events to telegram chats.
 It can be easily deployed to Heroku, it just needs some config vars to be defined on your heroku app.
